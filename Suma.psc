@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Firstproject
 	Escribir "Insterte un numero" 
 	Leer primerNumero
 	Escribir "Insterte otro numero"
